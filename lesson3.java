@@ -3,11 +3,11 @@ package HomeWork.lesson3;
 public class lesson3 {
     public static void main(String [] args)
     {
-        //Count();
-        //Change();
-        //Multiplication6();
-        //TwoDimensionalIntegerArray();
-        //OneDimensionalArray(5, 1);
+        Count();
+        Change();
+        Multiplication6();
+        TwoDimensionalIntegerArray();
+        OneDimensionalArray(5, 1);
     }
     public static void Change() {
         int[] arr = { 0, 0, 1, 0, 1, 0, 1 };
