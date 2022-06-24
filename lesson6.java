@@ -48,4 +48,4 @@ class Dog extends Animal {
         super(name, 500, 10);
     }
 }
-
+//
