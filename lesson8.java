@@ -49,6 +49,7 @@ public class lesson8  extends JFrame {
 
     JLabel counterValueView = new JLabel();
 }
+///
 
    
 
