@@ -27,3 +27,4 @@ class Cat {
                 appetite + ", сытость = " + fullness;
     }
 }
+///
